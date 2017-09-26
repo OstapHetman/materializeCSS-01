@@ -1,0 +1,27 @@
+#slide-out {
+    li:first-child {
+        margin-top: 20vh;
+        display: block;
+        margin-left: 16%;
+        margin-bottom: 1em;
+    }
+    width: 20%;
+    background-color: $mainBg;
+    .material-icons {
+        display: block;
+    }
+    li a {
+        color: #fff;
+        text-align: center;
+        .material-icons {
+            padding-left: 10%;
+        }
+    }
+    li:first-child a:hover {
+        background-color: unset !important;
+        cursor: default;
+    }
+    i {
+        color: #fff;
+    }
+}

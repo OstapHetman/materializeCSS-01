@@ -1,0 +1,18 @@
+.aboutPart {
+    min-height: 400px;
+    background-color: $aboutBg;
+    h4,
+    p {
+        color: #fff;
+        opacity: 0.7;
+        display: block;
+        text-align: center;
+    }
+    .material-icons {
+        color: $materialIcon;
+        font-size: 60px;
+        display: block;
+        text-align: center;
+        margin-top: 1.5em;
+    }
+}

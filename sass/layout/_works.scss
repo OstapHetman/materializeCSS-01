@@ -1,0 +1,15 @@
+.workPart {
+    min-height: 700px;
+    background-color: $mainBg;
+    margin-top: -2%;
+    .tabs {
+        background-color: unset;
+        margin-top: 10%;
+        li a {
+            color: #fff;
+        }
+        a.active {
+            color: #fff !important;
+        }
+    }
+}

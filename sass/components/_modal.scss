@@ -1,0 +1,12 @@
+#modal1.modal {
+    overflow: hidden;
+    min-height: 78vh;
+    bottom: 10%;
+    .modal-content {
+        padding-bottom: 0;
+    }
+    .modal-footer a {
+        color: #fff;
+        margin-right: 5%;
+    }
+}

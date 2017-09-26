@@ -1,0 +1,15 @@
+.homePart {
+    background: url(../img/home.jpeg) no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    min-height: 400px;
+    margin-top: -3%;
+    h1 {
+        color: #fff;
+        display: block;
+        text-align: center;
+        padding-top: 20%;
+        margin: 0;
+    }
+}
